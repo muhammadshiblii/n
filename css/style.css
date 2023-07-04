@@ -1,0 +1,26 @@
+.link{
+            text-align: end;
+}
+.h {
+    text-align: center;
+    color: blue;
+}
+    height:230px ;
+    width: 22.4%;
+.para{
+    color: rgb(184, 56, 24);
+    text-align: justify;
+
+}  
+.container{
+    border: 2px solid black;
+}
+.inner{
+    border: 2px solid red;
+} 
+.shadow img{
+    height:230px ;
+    width: 22.4%;
+    box-shadow: 5px 5px 10px black;
+    margin: 5px 5px 5px;
+}
